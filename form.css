@@ -1,0 +1,33 @@
+.box{
+    background-color: rgb(51, 105, 179);
+    text-align: center;
+    color: white;
+    padding: 50px;
+    padding-top: 60px;
+}
+.box h1{
+    font-size: 60px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+input{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+input[type="submit"]{
+    background-color: rgb(51, 105, 179);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+form{
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    padding: 30px;
+    border-radius: 10px;
+}
+.center{
+    text-align: center;
+}
